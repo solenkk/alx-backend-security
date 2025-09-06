@@ -1,0 +1,7 @@
+Django>=3.2
+django-ipgeolocation
+django-ratelimit
+celery
+redis
+django-celery-beat
+django-celery-results
